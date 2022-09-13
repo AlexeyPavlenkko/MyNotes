@@ -1,5 +1,5 @@
 ## Info
-- Stack: UIKit, CoreData.
+- Stack: UIKit, CoreData, MVC.
 - Description: Simple demo app for taking note(Native Note App Clone).
 
 ## App Showcase
