@@ -1,4 +1,8 @@
+## Info
+- Stack: UIKit, CoreData.
+- Description: Simple demo app for taking note(Native Note App Clone).
 
-Quick Review:
+## App Showcase
 
-![media](https://user-images.githubusercontent.com/108945278/189900619-fa00fdca-9d8f-4afa-983b-0ea2523c8bc3.gif)
+![media](https://user-images.githubusercontent.com/108945278/189933732-dcc203eb-fef3-4798-b2fc-883507486e0f.gif)
+
